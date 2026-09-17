@@ -1,8 +1,7 @@
 # Celestial Mechanics Toolkit
 
-Orbital mechanics scripts from the FYS-3000 (Space Mission Design) course
-project: atmospheric drag, TLE-based satellite tracking, and interplanetary
-transfer trajectory design.
+Orbital mechanics scripts: atmospheric drag, TLE-based satellite tracking,
+and interplanetary transfer trajectory design.
 
 (Constellation cost/link budget scripts live in
 [GIROS](../GIROS); GPS signal reception lives in [gps_sdr](../gps_sdr).)
